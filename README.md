@@ -1,6 +1,6 @@
 # RockPaperScissors
 
-A simple graphical game of Rock Paper Scissors. This itteration is created in JavaScript. 
+A simple graphical game of Rock Paper Scissors. This iteration is created in JavaScript. 
 The Project includes:
 - Bootstrap
 - Flexbox
