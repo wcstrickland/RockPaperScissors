@@ -1,0 +1,48 @@
+img {
+    width: 10vw;
+    height: 15vh;
+    border-radius: 50%;
+    transition: .50s;
+    border: 2px solid black;
+}
+
+section {
+    background-color: rgb(107, 167, 164);
+}
+
+body {
+    background-color: rgb(59, 117, 114);
+}
+
+h1 {
+    color: rgb(206, 236, 96);
+}
+
+#row2,
+#row3 {
+    margin: 1vw;
+}
+
+#playerPlaceImg,
+#compPlaceImg {
+    border: 2px solid black;
+    width: 14vw;
+    height: 20vh;
+    border-radius: 50%;
+    transition: .3s
+}
+
+.pog {
+    border: 2px solid black;
+    width: 14vw;
+    height: 20vh;
+    border-radius: 50%;
+    transition: .5s
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
