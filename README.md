@@ -1,6 +1,8 @@
 # RockPaperScissors
 
-A simple graphical game of Rock Paper Scissors. This iteration is created in JavaScript. 
+![alt text](https://media.giphy.com/media/JGXjxr0c0bRPa682fn/giphy.gif)
+
+A simple graphical game of Rock Paper Scissors against a computer. This iteration is created in JavaScript. 
 The Project includes:
 - Bootstrap
 - Flexbox
