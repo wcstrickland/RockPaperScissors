@@ -2,7 +2,7 @@
 
 ![alt text](https://media.giphy.com/media/JGXjxr0c0bRPa682fn/giphy.gif)
 
-A simple graphical game of Rock Paper Scissors against a computer. This iteration is created in JavaScript. 
+A simple graphical game of Rock Paper Scissors against a computer. This iteration is created in JavaScript and displayed in the browser. 
 The Project includes:
 - Bootstrap
 - Flexbox
