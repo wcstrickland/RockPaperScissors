@@ -7,15 +7,16 @@ img {
 }
 
 section {
-    background-color: rgb(107, 167, 164);
+    background-color: #a6a9b6;
+    border: 2px solid black
 }
 
 body {
-    background-color: rgb(59, 117, 114);
+    background-color: #fcf8e8;
 }
 
 h1 {
-    color: rgb(206, 236, 96);
+    color: #11698e;
 }
 
 #row2,
@@ -29,7 +30,8 @@ h1 {
     width: 14vw;
     height: 20vh;
     border-radius: 50%;
-    transition: .3s
+    transition: .3s;
+    display: none
 }
 
 .pog {
@@ -45,4 +47,9 @@ h1 {
     justify-content: center;
     justify-items: center;
     align-items: center;
+}
+
+.player:hover {
+    border-color: #f1ff5c;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
 }
